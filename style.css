@@ -1,0 +1,203 @@
+*{margin: 0%; padding: 0%;}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+.menu-item{
+  background-color: #A4003D;
+}
+ul{
+  margin-left: 1000px;
+}
+
+.logo{
+  color: white;
+   background-color: #A4003D;
+   float: left;
+   font-family: 'Fraunces';
+   margin: 15px;
+   padding: 2px;
+   font-size: 30px;
+ }
+ 
+nav li{
+  display: inline-block;
+  padding: 8px;
+}
+
+nav a {
+  color: white;
+  float: right;
+  font-size: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+  padding:5px;   
+}
+
+#login{
+  background-color: white;
+  color: black;
+  border-radius: 1em;
+  padding: 10px;
+  font-family: 'Fraunces'; 
+  font-weight: bold;
+}
+
+.principal{
+    background-image: url("img/fundo1.jpg");
+    margin: 50px 50px;
+    border-radius: 50px;
+    box-shadow:0 0 1em #A4003D;
+    background-size:cover;
+    background-clip: content-box;
+}
+
+.título{
+    text-align: center;
+    color:#69233A;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 100px;
+    margin-top: 80px;
+    font-size: 40px;
+    padding: 90px;
+    font-weight: bolder;
+
+}
+
+.cliente{
+    width: 100px;
+    margin-left: 470px;
+    text-align: center;
+    background-color: white;
+    color: black;
+    border-radius: 1em;
+    padding: 10px;
+    font-family: 'Fraunces'; 
+    font-weight: bold;
+    margin-bottom: 180px;
+    fill-opacity: 0.5;
+
+}
+
+.produto{
+    width: 100px;
+    margin-left: 100px;
+    text-align: center;
+    background-color: white;
+    color: black;
+    border-radius: 1em;
+    padding: 10px;
+    font-family: 'Fraunces'; 
+    font-weight: bold;
+    margin-bottom: 180px;
+
+}
+
+.footer1{
+    background-color: beige;
+    color:#A4003D;
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 90px;
+    padding-top: 20px;
+}
+
+.footer2{
+    background-color: beige;
+    color:#A4003D;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 60px;
+    padding-top: 20px;
+}
+
+
+.parte2{
+    background-image: url("img/fundo2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.parte3{
+    background-image: url("img/fundo3.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.titulo2{
+    text-align: center;
+    color:white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 50px;
+    font-size: 40px;
+    padding: 90px;
+
+}
+
+.titulo3{
+    text-align: center;
+    color:white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 50px;
+    font-size: 40px;
+    padding: 90px;
+}
+
+form{
+    margin:auto;
+    margin-bottom: 40px;
+    width: 300px;
+    padding:30px;
+    border:1px solid white;
+    border-radius: 1em;
+    background-color:  #ffffff95;
+    
+}
+label{
+    display: inline-block;
+    width: 90px;
+    text-align: center;
+    font-family: 'Shrikhand';
+    color:black;
+    font-weight: bolder;
+}
+
+input{
+    margin: 10px 5px;
+    border-radius: 1em;
+    background-color: transparent;
+}
+
+.salvar-cliente{
+    background-color: white;
+    color: black;
+    border-radius: 1em;
+    padding: 10px;
+    font-family: 'Fraunces'; 
+    font-weight: bold;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+.salvar-produto{
+    background-color: white;
+    color: black;
+    border-radius: 1em;
+    padding: 10px;
+    font-family: 'Fraunces'; 
+    font-weight: bold;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+
+.Voltar{
+    background-color: white;
+    color: black;
+    border-radius: 1em;
+    padding: 10px;
+    font-family: 'Fraunces'; 
+    font-weight: bold;
+    margin-top: 80px;
+    margin-bottom: 30px;
+    margin-left: 630px;
+}
